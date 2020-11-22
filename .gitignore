@@ -1,0 +1,5 @@
+notebooks/.ipynb_checkpoints
+data/raw/pdf
+*.pyc
+models/
+reports/*.pdf
